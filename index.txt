@@ -1,0 +1,13 @@
+!DOCTYPE html>
+<html lang="en">
+  <head>	
+    <title>Sample Title</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Don Kwifo">
+   </head
+   <body>
+     <p>Hello World</p>
+     <a href="pag2.html">Visit DaBrook</ DaBRook</a>
+   </body>
+</html>
+<p>
